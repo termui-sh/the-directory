@@ -63,7 +63,7 @@ WindTerm	Character	Local SSH Telnet Serial Shell Sftp		 A Quicker and better SSH
 x3270	Block	tn3270		Multi-platform	x3270 is an open-source terminal emulator available for macOS, Linux and Windows
 xfce4-terminal	Character	Local	X11, Wayland	Unix-based	Default terminal for Xfce with drop-down support
 xterm	Character	Local	X11, Wayland	Unix-based	xterm is the standard terminal for X11; default terminal when X11.app starts on macOS
-Yazi	Character	Multi-Utility Multi-platform	Unix-based	Yazi (means "duck") is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience.
+Yazi	Character	tkio	Multi-Utility 	Unix-based	Yazi (means "duck") is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience.
 ZOC	Character	Serial port, Telnet, SSH, ISDN, TAPI, Rlogin		Windows, IBM OS/2, macOS	ZOC is a commercial terminal emulator for Windows, macOS and OS/S
 ZTerm	Character	Serial line		macOS, Classic Mac OS	ZTerm is a shareware serial terminal emulator for macOS`
 
