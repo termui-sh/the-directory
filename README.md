@@ -1,6 +1,8 @@
 # the-directory
 Welcome to the souce behind [the terminal directory](https://termui.sh)
 
+> Note: This readme.md is still in TODO phase
+
 ## Contribution
 We’d love your help in expanding this list! If you know a terminal emulator that’s missing:
 
