@@ -83,10 +83,12 @@ export default function Home() {
           <h1 className="text-4xl font-bold bg-gradient-to-r from-green-400 to-emerald-500 text-transparent bg-clip-text">
             The Terminal Directory
           </h1>
-          <Dialog open={isDialogOpen} onOpenChange={setIsDialogOpen}>
-            <DialogTrigger asChild>
+          {/* <Dialog open={isDialogOpen} onOpenChange={setIsDialogOpen}>
+            <DialogTrigger asChild> */}
+            <Link href={'https://github.com/termui-sh/the-directory/issues/new?title=New+Terminal+:+%3CEnter+Terminal%20Name%20Here%3E&body=%23%23+Description+%3Cbr/%3E+%0AEnter%20Description%20of%20terminal%20below&labels=enhancement'}>
               <Button>Request Terminal</Button>
-            </DialogTrigger>
+              </Link>
+            {/* </DialogTrigger>
             <DialogContent>
               <DialogHeader>
                 <DialogTitle>Request Terminal</DialogTitle>
@@ -96,7 +98,7 @@ export default function Home() {
               </DialogHeader>
               <AddTerminalForm onAddTerminal={handleAddTerminal} />
             </DialogContent>
-          </Dialog>
+          </Dialog> */}
           {/* <Link href="/terminal-cli">
             <Button variant="outline">Open Terminal CLI</Button>
           </Link> */}

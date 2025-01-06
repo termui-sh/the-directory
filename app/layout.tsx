@@ -24,7 +24,7 @@ export default function RootLayout({
           <div className="container flex h-16 items-center px-4">
             <div className="flex gap-4 items-center">
               <Image
-                src="/image.png"
+                src="/logo.png"
                 alt="Terminal Logo"
                 width={32}
                 height={32}
