@@ -14,8 +14,13 @@ export const metadata: Metadata = {
     images:"https://termui.sh/og.png",
     type:"website",
     title:"The Terminal Directory",
-    description:"List of all (known) terminals"
-  },
+    description:"List of all (known) terminals",
+    url:"https://termui.sh",
+  },twitter:{
+    card:"summary_large_image",
+    images:"https://termui.sh/og.png",
+    creator:"@vednig"
+  }
   
 }
 
@@ -50,6 +55,11 @@ export default function RootLayout({
         {children}
         <Toaster />
       </body>
+      <script 
+ defer 
+ data-site-id="termui.sh" 
+ src="https://assets.onedollarstats.com/tracker.js"> 
+</script>
     </html>
   )
 }
