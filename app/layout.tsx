@@ -10,6 +10,13 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Terminal Directory',
   description: 'A comprehensive directory of computer terminals',
+  openGraph:{
+    images:"https://termui.sh/og.png",
+    type:"website",
+    title:"The Terminal Directory",
+    description:"List of all (known) terminals"
+  },
+  
 }
 
 export default function RootLayout({
