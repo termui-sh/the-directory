@@ -11,6 +11,7 @@ Open up an issue [request new terminal](https://github.com/termui-sh/the-directo
 or
 
 Fork this repository.
+
 Add the emulator details to the appropriate section by copying the previous line and replacing the text in [page.tsx](https://github.com/termui-sh/the-directory/blob/main/app/page.tsx).
 
 Submit a pull request with the terminal name in title or link issue using #<issue_id> in PR
