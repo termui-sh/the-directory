@@ -53,7 +53,7 @@ Tera Term	Character	Serial port, Telnet, xmodem and SSH 1 & 2		Windows	Tera Term
 Terminal	Default	Local		macOS	This is the default terminal application on macOS
 Terminate	Character	Serial port		MS-DOS	Terminal emulator for MS-DOS (discontinued since 1992)
 Gnome Terminator	Character		X11, Wayland	Unix-based	Orignally written in 300 Python lines with many novel or experimental features.It lets you combine and recombine terminals to suit the style you like.
-Termux	Character	Local		Android  Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required
+Termux	Character	Local	Android	Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required
 Tilda	Character	Local SSH Telnet Serial	X11, Wayland	Unix-based	A GTK drop-down terminal
 Tilix Terminal	Character	Local	X11, Wayland	Unix-based	GTK3 tiling terminal emulator
 TN3270 Plus	Block and character	tn3270, tn5250,Telnet		Windows	TN3270-Plus is a terminal emulator for Windows
