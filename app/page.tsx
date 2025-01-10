@@ -39,6 +39,7 @@ mintty	Character	Local		Windows	Used for Cygwin, MSYS2, as well as the Windows p
 NComm	Character	Serial port		Amiga	
 OpenTTY	Character	Local	LCDUI	J2ME	OpenTTY is a free and open-source terminal emulator for feature phones and smartphones with J2ME support.[6]
 PComm	Character	Serial port, Telnet ?		Windows	Moxa Inc free terminal emulator for Windows
+Prompt 3	Character	Local, SSH		macOS iOS	It’s the terminal app that aims to please. Reboot some servers while surfing. Quickly tweak a website at your desk. It’s lovely, fast, and eager to save the day the moment you need it. That’s why we call it Prompt.
 PuTTY	Character	Serial port, Telnet, rlogin, SSH, and raw socket connection		Windows, macOS, ReactOS, Linux, Symbian S60[7]	PuTTY is a free and open-source terminal emulator, serial console and file transfer application.
 Qmodem Pro	Character	Serial port		Windows	Terminal emulator for MS-DOS and WIndows 95 (discontinued since 1997)
 Red Ryder	Character	Serial port		Classic Mac OS	Terminal emulator for Macintosh (discontinued since 1989)
