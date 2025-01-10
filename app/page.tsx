@@ -47,7 +47,7 @@ RUMBA	Character, block	Serial port, Telnet, SSH, tn3270, tn5250, SNA		Windows	Ru
 rxvt	Character	Local	X11, Wayland	Unix-based	Rxvt is a terminal emulator for the X Window System, and in the form of a Cygwin port, for Windows
 SecureCRT	Character	Telnet, SSH		macOS, Windows	SecureCRT is a commercial terminal emulator for Linux, macOS and Windows
 SyncTERM	Character	raw TCP socket, rlogin, SSH, Serial port, Telnet	CLI (curses), SDL, X11	Linux, macOS, NetBSD, OpenBSD, Windows	Terminal program for Windows, Linux, OpenBSD, NetBSD, Mac OS X, and FreeBSD
-Tabby	Character	Local		Linux MacOS Windows  Tabby is an infinitely customizable cross-platform terminal app for local shells, serial, SSH and Telnet connections.
+Tabby	Character	Local		Linux MacOS Windows Tabby is an infinitely customizable cross-platform terminal app for local shells, serial, SSH and Telnet connections.
 Telix	Character	Serial port		MS-DOS	Terminal emulator for MS-DOS (discontinued since 1997)
 Tera Term	Character	Serial port, Telnet, xmodem and SSH 1 & 2		Windows	Tera Term is an open-source, free, software terminal emulator for Windows
 Terminal	Default	Local		macOS	This is the default terminal application on macOS
@@ -61,7 +61,7 @@ Warp Terminal	Character	Local		Linux, macOS	terminal with modern IDE, AI assista
 WezTerm	Character	Local	X11, Wayland	Unix-based, Windows	terminal emulator implemented in Rust
 Windows Console	Default	Local		Windows	Windows command line terminal
 Windows Terminal	Default	Local		Windows	Default terminal on Windows
-WindTerm	Character	Local SSH Telnet Serial Shell Sftp  Linux Windows MacOS  A Quicker and better SSH/Telnet/Serial/Shell/Sftp client for DevOps. 
+WindTerm	Character	Local SSH Telnet Serial Shell Sftp  Linux Windows MacOS A Quicker and better SSH/Telnet/Serial/Shell/Sftp client for DevOps. 
 x3270	Block	tn3270		Multi-platform	x3270 is an open-source terminal emulator available for macOS, Linux and Windows
 xfce4-terminal	Character	Local	X11, Wayland	Unix-based	Default terminal for Xfce with drop-down support
 xterm	Character	Local	X11, Wayland	Unix-based	xterm is the standard terminal for X11; default terminal when X11.app starts on macOS
