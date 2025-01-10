@@ -21,6 +21,7 @@ AlphaCom	Character	Telnet, SSH, and RS-232/modem		Windows
 CBterm/C64	Character	Serial port		Commodore 64	
 C-Kermit for Windows and OS/2	Character	SSH, Telnet, rlogin, Local, raw socket connection, Serial port, TAPI and direct Dialup, Named Pipe, Pathworks32 LAT and CTERM[1]		Windows, IBM OS/2	Formerly Kermit 95,[2] successor of the Columbia.edu Kermit Project.
 ConEmu	Character	Local		Windows	Local terminal window that can host console application either for WinAPI or Unix PTY
+emacs-eat	Character	Local, Emacs		Unix Platform	Eat's name self-explanatory, it stands for "Emulate A Terminal". Eat is a terminal emulator. It can run most (if not all) full-screen terminal programs, including Emacs.
 fshell	Character	Local, Telnet	Avkon, Qt	Symbian S60	fshell is a free and open-source terminal emulator for Symbian 9.1-9.4, developed by Accenture.[3] Has a desktop app, Muxcons, to remotely control smartphone throw fshell.[4][5]
 GNOME Terminal	Character	Local	X11, Wayland	Unix-based	Default terminal for GNOME with native Wayland support
 guake	Character	Local	X11, Wayland	Unix-based	Drop-down terminal for GNOME
