@@ -47,13 +47,13 @@ RUMBA	Character, block	Serial port, Telnet, SSH, tn3270, tn5250, SNA		Windows	Ru
 rxvt	Character	Local	X11, Wayland	Unix-based	Rxvt is a terminal emulator for the X Window System, and in the form of a Cygwin port, for Windows
 SecureCRT	Character	Telnet, SSH		macOS, Windows	SecureCRT is a commercial terminal emulator for Linux, macOS and Windows
 SyncTERM	Character	raw TCP socket, rlogin, SSH, Serial port, Telnet	CLI (curses), SDL, X11	Linux, macOS, NetBSD, OpenBSD, Windows	Terminal program for Windows, Linux, OpenBSD, NetBSD, Mac OS X, and FreeBSD
-Tabby	Character	Local		Linux MacOS Windows	
+Tabby	Character	Local		Linux MacOS Windows  Tabby is an infinitely customizable cross-platform terminal app for local shells, serial, SSH and Telnet connections.
 Telix	Character	Serial port		MS-DOS	Terminal emulator for MS-DOS (discontinued since 1997)
 Tera Term	Character	Serial port, Telnet, xmodem and SSH 1 & 2		Windows	Tera Term is an open-source, free, software terminal emulator for Windows
 Terminal	Default	Local		macOS	This is the default terminal application on macOS
 Terminate	Character	Serial port		MS-DOS	Terminal emulator for MS-DOS (discontinued since 1992)
 Gnome Terminator	Character		X11, Wayland	Unix-based	Orignally written in 300 Python lines with many novel or experimental features.It lets you combine and recombine terminals to suit the style you like.
-Termux	Character	Local		Android Tabby is an infinitely customizable cross-platform terminal app for local shells, serial, SSH and Telnet connections.
+Termux	Character	Local		Android  Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required
 Tilda	Character	Local SSH Telnet Serial	X11, Wayland	Unix-based	A GTK drop-down terminal
 Tilix Terminal	Character	Local	X11, Wayland	Unix-based	GTK3 tiling terminal emulator
 TN3270 Plus	Block and character	tn3270, tn5250,Telnet		Windows	TN3270-Plus is a terminal emulator for Windows
@@ -61,7 +61,7 @@ Warp Terminal	Character	Local		Linux, macOS	terminal with modern IDE, AI assista
 WezTerm	Character	Local	X11, Wayland	Unix-based, Windows	terminal emulator implemented in Rust
 Windows Console	Default	Local		Windows	Windows command line terminal
 Windows Terminal	Default	Local		Windows	Default terminal on Windows
-WindTerm	Character	Local SSH Telnet Serial Shell Sftp		 A Quicker and better SSH/Telnet/Serial/Shell/Sftp client for DevOps. 
+WindTerm	Character	Local SSH Telnet Serial Shell Sftp  Linux Windows MacOS  A Quicker and better SSH/Telnet/Serial/Shell/Sftp client for DevOps. 
 x3270	Block	tn3270		Multi-platform	x3270 is an open-source terminal emulator available for macOS, Linux and Windows
 xfce4-terminal	Character	Local	X11, Wayland	Unix-based	Default terminal for Xfce with drop-down support
 xterm	Character	Local	X11, Wayland	Unix-based	xterm is the standard terminal for X11; default terminal when X11.app starts on macOS
