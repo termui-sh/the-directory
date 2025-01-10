@@ -51,7 +51,7 @@ Telix	Character	Serial port		MS-DOS	Terminal emulator for MS-DOS (discontinued s
 Tera Term	Character	Serial port, Telnet, xmodem and SSH 1 & 2		Windows	Tera Term is an open-source, free, software terminal emulator for Windows
 Terminal	Default	Local		macOS	This is the default terminal application on macOS
 Terminate	Character	Serial port		MS-DOS	Terminal emulator for MS-DOS (discontinued since 1992)
-Terminator	Character		X11, Wayland	Unix-based	Written in Java with many novel or experimental features
+Terminator	Character		X11, Wayland	Unix-based	Orignally written in 300 Python lines with many novel or experimental features.It lets you combine and recombine terminals to suit the style you like.
 Termux	Character	Local		Android Tabby is an infinitely customizable cross-platform terminal app for local shells, serial, SSH and Telnet connections.
 Tilda	Character	Local SSH Telnet Serial	X11, Wayland	Unix-based	A GTK drop-down terminal
 Tilix Terminal	Character	Local	X11, Wayland	Unix-based	GTK3 tiling terminal emulator
